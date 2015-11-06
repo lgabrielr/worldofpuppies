@@ -1,0 +1,53 @@
+section#breeds{
+  background: linear-gradient(to bottom, #FFFFFF, #F2F2F2);
+  padding-bottom: 20px;
+}
+
+#breeds h2{
+  margin: 0 0 30px 0;
+  padding: 30px 0 0 0;
+}
+
+.table{
+  margin: auto;
+  width: 960px;
+}
+
+.table thead{
+  background-color: #901B1F;
+  color: white;
+  text-align:left;
+}
+
+.table thead th{
+  padding: 10px 0 10px 10px;
+}
+
+.thumbnail-col img{
+  width: 70px;
+  padding: 2px;
+  border: 1px solid #CCCCCC;
+  border-radius:3px;
+  background-color: #F3F3F3;
+}
+
+.table tbody{
+}
+
+.table tbody td{
+  padding-left: 10px;
+  font-size: 15px;
+  color: #515151;
+  padding-top: 6px;
+  padding-bottom: 6px;
+}
+
+.table tbody tr{
+  border-width: 1px 0 0 0;
+  border-style: solid;
+  border-color: #E1E1E1;
+}
+
+.table tbody tr:nth-child(2n+1){
+  background-color: #F3F3F3;
+}

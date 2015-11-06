@@ -1,0 +1,26 @@
+#introduction{
+  background-image: url("../img/introduction-bg.jpg");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: 100% auto;
+  height: 500px;
+  padding: 0;
+  margin: 0;
+  min-width: 1024px;
+}
+
+#about{
+  padding-top: 0;
+  margin-top: -40px;
+  min-width: 800px;
+}
+
+#about h2{
+  color: #515151;
+}
+
+#about img{
+  float: right;
+  padding:5px;
+  border: 1px solid #515151;
+}

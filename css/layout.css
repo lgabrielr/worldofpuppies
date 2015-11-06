@@ -7,3 +7,47 @@
 body{
   font-family: 'Montserrat', sans-serif;
 }
+
+.wrapper{
+  padding-top: 80px;
+}
+
+main{
+margin-top: 0;
+padding-top: 0;
+}
+
+main section .container{
+  width: 960px;
+  margin: 0 auto;
+}
+
+section{
+}
+
+section.accent{
+  background: linear-gradient(to bottom,#A02C2D,#68161B);
+  margin: 0;
+  padding: 0 auto 20px auto;
+  color: #FFFFFF;
+}
+
+section.light{
+}
+
+section.dark{
+}
+
+h2{
+  font-weight:bold;
+  font-size:70px;
+  text-transform: uppercase;
+}
+
+.light h2{
+  color: #515151;
+}
+
+.dark h2{
+  color: #FFFFFF;
+}
