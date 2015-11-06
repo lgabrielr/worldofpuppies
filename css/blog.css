@@ -1,67 +1,66 @@
-section#blog div h2{
-  margin-top: 20px;
-  margin-bottom: 30px;
-}
+  section#blog div h2{
+    margin-top: 20px;
+    margin-bottom: 30px;
+  }
 
-div.blog-col-left header.blog-header time{
-  display: block;
-  font-weight: bold;
-  color: #515151;
-  font-size: 20px;
-}
+  div.blog-col-left header.blog-header time{
+    display: block;
+    font-weight: bold;
+    color: #515151;
+    font-size: 20px;
+  }
 
-header.blog-header a{
-  text-decoration: none;
-  color: black;
-  font-weight: bold;
-  font-size:32px
-}
+  header.blog-header a{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    font-size:32px
+  }
 
-section.blog-content{
-  margin-top: 1em;
-  color: #515151;
-  font-size: 16px;
-}
+  section.blog-content{
+    margin-top: 1em;
+    color: #515151;
+    font-size: 16px;
+  }
 
-div.blog-col-right{
-  display: inline-block;
-  width: 292px;
-}
+  div.blog-col-right{
+    float: right;
+    width: 292px;
+  }
 
-div.blog-col-left{
-  width: 612px;
-  margin-right: 0;
-  display: inline-block;
-  vertical-align: top;
-}
+  div.blog-col-left{
+    width: 612px;
+    margin-right: 0;
+    display: inline-block;
+    vertical-align: top;
+  }
 
-ul.blog-list{
-  margin: 0;
-}
+  ul.blog-list{
+    margin: 0;
+  }
 
-ul.blog-list li{
-  list-style: none;
-  margin: 0;
-  padding: 1.5em 0 .5em 0;
-  border-bottom: 1px solid #D4D4D4;
-}
+  ul.blog-list li{
+    list-style: none;
+    margin: 0;
+    padding: 1.5em 0 .5em 0;
+    border-bottom: 1px solid #D4D4D4;
+  }
 
-ul.blog-list li:last-child{
-  border-bottom: 0;
+  ul.blog-list li:last-child{
+    border-bottom: 0;
+  }
 
-}
+  div.blog-col-right header.blog-header time{
+    font-size: 15px;
+    display: block;
+    font-weight: bold;
+    color: #515151;
+  }
 
-div.blog-col-right header.blog-header time{
-  font-size: 15px;
-  display: block;
-  font-weight: bold;
-  color: #515151;
-}
+  div.blog-col-right header.blog-header a{
+    font-size: 22px;
+  }
 
-div.blog-col-right header.blog-header a{
-  font-size: 22px;
-}
-
-div.blog-row{
-  margin-bottom: 20px;
-}
+  div.blog-row{
+    margin-bottom: 20px;
+  }

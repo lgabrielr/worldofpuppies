@@ -17,10 +17,9 @@
 
 #about h2{
   color: #515151;
+  margin-bottom: 20px;
 }
 
 #about img{
   float: right;
-  padding:5px;
-  border: 1px solid #515151;
 }
